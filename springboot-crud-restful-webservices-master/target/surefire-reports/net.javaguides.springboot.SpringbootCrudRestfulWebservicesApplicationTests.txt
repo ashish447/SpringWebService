@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: net.javaguides.springboot.SpringbootCrudRestfulWebservicesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.541 s <<< FAILURE! - in net.javaguides.springboot.SpringbootCrudRestfulWebservicesApplicationTests
+net.javaguides.springboot.SpringbootCrudRestfulWebservicesApplicationTests  Time elapsed: 0.535 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
