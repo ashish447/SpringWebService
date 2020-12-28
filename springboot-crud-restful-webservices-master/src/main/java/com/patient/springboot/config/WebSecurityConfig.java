@@ -1,4 +1,4 @@
-package com.tenant.springboot.config;
+package com.patient.springboot.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

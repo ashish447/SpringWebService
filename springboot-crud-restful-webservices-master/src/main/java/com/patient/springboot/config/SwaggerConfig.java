@@ -1,4 +1,4 @@
-package com.tenant.springboot.config;
+package com.patient.springboot.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -24,7 +24,7 @@ public class SwaggerConfig {
 	}
 
 	private Predicate<String> postPaths() {
-		return or(regex("/authenticate.*"), regex("/api/tenant.*"));
+		return or(regex("/authenticate.*"), regex("/api/patient.*"));
 	}
 
 	private ApiInfo apiInfo() {

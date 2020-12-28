@@ -1,4 +1,4 @@
-package com.tenant.springboot.controller;
+package com.patient.springboot.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -13,10 +13,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tenant.springboot.config.JwtTokenUtil;
-import com.tenant.springboot.entity.JwtRequest;
-import com.tenant.springboot.entity.JwtResponse;
-import com.tenant.springboot.service.JwtUserDetailsService;
+import com.patient.springboot.config.JwtTokenUtil;
+import com.patient.springboot.entity.JwtRequest;
+import com.patient.springboot.entity.JwtResponse;
+import com.patient.springboot.service.JwtUserDetailsService;
 
 @RestController
 @CrossOrigin

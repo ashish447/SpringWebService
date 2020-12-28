@@ -1,4 +1,4 @@
-package com.tenant.springboot.exception;
+package com.patient.springboot.exception;
 
 import java.util.Date;
 

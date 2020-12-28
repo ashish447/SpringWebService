@@ -1,4 +1,4 @@
-package com.tenant.springboot.service;
+package com.patient.springboot.service;
 
 import java.util.ArrayList;
 

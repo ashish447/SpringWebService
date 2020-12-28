@@ -1,4 +1,4 @@
-package com.tenant.springboot.entity;
+package com.patient.springboot.entity;
 
 import java.io.Serializable;
 

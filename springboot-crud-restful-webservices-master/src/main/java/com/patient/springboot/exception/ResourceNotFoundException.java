@@ -1,4 +1,4 @@
-package com.tenant.springboot.exception;
+package com.patient.springboot.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,4 +1,4 @@
-package com.tenant.springboot.config;
+package com.patient.springboot.config;
 
 import java.io.Serializable;
 import java.util.Date;

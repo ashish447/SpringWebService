@@ -1,4 +1,4 @@
-package com.tenant.springboot.config;
+package com.patient.springboot.config;
 
 import java.io.IOException;
 
@@ -15,7 +15,7 @@ import org.springframework.security.web.authentication.WebAuthenticationDetailsS
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import com.tenant.springboot.service.JwtUserDetailsService;
+import com.patient.springboot.service.JwtUserDetailsService;
 
 import io.jsonwebtoken.ExpiredJwtException;
 
